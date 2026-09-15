@@ -1,0 +1,21 @@
+﻿# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Dependencies
+node_modules/
+
+# Secrets / env
+.env
+.env.*
+
+# Backend & internal (production ma nachahine)
+n8n/
+data/
+WHATSAPP_BOT_SETUP.txt
+SCAN_QR_NOW.html
+PROJECT_DOCUMENTATION.md
+PROJECT_DOCUMENTATION.pdf
