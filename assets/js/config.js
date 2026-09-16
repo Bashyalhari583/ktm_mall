@@ -10,7 +10,7 @@ window.KTM = window.KTM || {};
 
 KTM.CONFIG = {
   // n8n webhook base URL — update for production deployment
-  N8N_BASE:     "https://n8n-mard.srv1527661.hstgr.cloud",
+  N8N_BASE:     "https://n8n.srv1704676.hstgr.cloud",
   BOOKING_PATH: "/webhook/ktm-mall-booking",
   CHAT_PATH:    "/webhook/ktm-mall-chat",
 
